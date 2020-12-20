@@ -1,6 +1,6 @@
 # 30-React-projects
 
-I will build 40 react projects
+I will build 30 react projects
 and list them  here<br/> 
 1-[first project]()<br/>
 2-[first project]()<br/>
