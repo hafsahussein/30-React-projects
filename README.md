@@ -4,8 +4,10 @@ I will build 30 react projects from scratch
 and list them  here<br/> 
 ## 1-[Quiz App (code)](https://github.com/hafsahussein/react-quiz-app)<br/>
 ### ![Quiz App](img/quiz-app.png)<br/>
-### [live site](https://quizzappp.netlify.app)<br/>
-## 2-[second project]()<br/>
+### [Live Site](https://quizzappp.netlify.app)<br/>
+## 2-[Tip Calculater (code)](https://github.com/hafsahussein/tip-calculator-with-react)<br/>
+### ![Tip Calculater](img/tipcalculator.png)<br/>
+### [Live Site](https://reacttipcalculator.netlify.app)<br/>
 ## 3-[third project]()<br/>
 ## 4-[fourth project]()<br/>
 ## 5-[fifth project]()<br/>
