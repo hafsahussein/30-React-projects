@@ -3,8 +3,8 @@
 I will build 30 react projects from scratch
 and list them  here<br/> 
 1-[Quiz App (code)](https://github.com/hafsahussein/react-quiz-app)<br/>
-![Quiz App](img/quiz-app.png)
-[live site](https://quizzappp.netlify.app)
+![Quiz App](img/quiz-app.png)<br/>
+[live site](https://quizzappp.netlify.app)<br/>
 2-[second project]()<br/>
 3-[third project]()<br/>
 4-[fourth project]()<br/>
