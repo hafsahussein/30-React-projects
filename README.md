@@ -8,7 +8,9 @@ and list them  here<br/>
 ## 2-[Tip Calculater (code)](https://github.com/hafsahussein/tip-calculator-with-react)<br/>
 ### ![Tip Calculater](img/tipcalculator.png)<br/>
 ### [Live Site](https://reacttipcalculator.netlify.app)<br/>
-## 3-[third project]()<br/>
+## 3-[Todolist App (code)](https://github.com/hafsahussein/simple-todo-list-app-with-react)<br/>
+### ![Todolist App](img/todolistapp.png)<br/>
+### [Live Site](https://todolistwith-react.netlify.app)<br/>
 ## 4-[fourth project]()<br/>
 ## 5-[fifth project]()<br/>
 ## 6-[sixth project]()<br/>
