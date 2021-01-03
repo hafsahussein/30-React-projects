@@ -14,7 +14,9 @@ and list them  here<br/>
 ## 4-[Random Hadith Generator (code)](https://github.com/hafsahussein/random-hadith-generator)<br/>
 ### ![Random Hadith Generator](img/random-hadith-generator.png)<br/>
 ### [Live Site](https://random-hadith-generator.netlify.app)<br/>
-## 5-[fifth project]()<br/>
+## 5-[Simple Calculator (code)](https://github.com/hafsahussein/calculator-with-react)<br/>
+### ![Random Hadith Generator](img/calculator.png)<br/>
+### [Live Site](https://hafsahussein.github.io/calculator-with-react/)<br/>
 ## 6-[sixth project]()<br/>
 ## 7-[seventh project]()<br/>
 ## 8-[eigth project]()<br/>
