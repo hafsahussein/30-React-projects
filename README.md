@@ -17,7 +17,9 @@ and list them  here<br/>
 ## 5-[Simple Calculator (code)](https://github.com/hafsahussein/calculator-with-react)<br/>
 ### ![Random Hadith Generator](img/calculator.png)<br/>
 ### [Live Site](https://hafsahussein.github.io/calculator-with-react/)<br/>
-## 6-[sixth project]()<br/>
+## 6-[Image Gallery (code)](https://github.com/hafsahussein/react-image-gallery)<br/>
+### ![Random Hadith Generator](img/image-gallery.png)<br/>
+### [Live Site](https://react-imagegallery.netlify.app/)<br/>
 ## 7-[seventh project]()<br/>
 ## 8-[eigth project]()<br/>
 ## 9-[nineth project]()<br/>
