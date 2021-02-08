@@ -20,7 +20,10 @@ and list them  here<br/>
 ## 6-[Image Gallery (code)](https://github.com/hafsahussein/react-image-gallery)<br/>
 ### ![Random Hadith Generator](img/image-gallery.png)<br/>
 ### [Live Site](https://react-imagegallery.netlify.app/)<br/>
-## 7-[seventh project]()<br/>
+## 7-[Blog website (code)](https://github.com/hafsahussein/best-blog)<br/>
+### ![Best blog](img/blog-web.png)<br/>
+### [Live Site](https://best-blog.netlify.app/)<br/>
+
 ## 8-[eigth project]()<br/>
 ## 9-[nineth project]()<br/>
 ## 10-[tenth project]()<br/>
