@@ -24,6 +24,8 @@ and list them  here<br/>
 ### ![Best blog](img/blog-web.png)<br/>
 ### [Live Site](https://best-blog.netlify.app/)<br/>
 
-## 8-[eigth project]()<br/>
+## 8-[CV Creater (code)](https://github.com/hafsahussein/cv-creater)<br/>
+### ![CV Creater](img/cv-creater.png)<br/>
+### [Live Site](https://cv-creater.netlify.app/)<br/>
 ## 9-[nineth project]()<br/>
 ## 10-[tenth project]()<br/>
