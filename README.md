@@ -18,12 +18,11 @@ and list them  here<br/>
 ### ![Random Hadith Generator](img/calculator.png)<br/>
 ### [Live Site](https://hafsahussein.github.io/calculator-with-react/)<br/>
 ## 6-[Image Gallery (code)](https://github.com/hafsahussein/react-image-gallery)<br/>
-### ![Random Hadith Generator](img/image-gallery.png)<br/>
+### ![Image Gallery](img/image-gallery.png)<br/>
 ### [Live Site](https://react-imagegallery.netlify.app/)<br/>
 ## 7-[Blog website (code)](https://github.com/hafsahussein/best-blog)<br/>
 ### ![Best blog](img/blog-web.png)<br/>
 ### [Live Site](https://best-blog.netlify.app/)<br/>
-
 ## 8-[CV Creater (code)](https://github.com/hafsahussein/cv-creater)<br/>
 ### ![CV Creater](img/cv-creater.png)<br/>
 ### [Live Site](https://cv-creater.netlify.app/)<br/>
